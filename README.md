@@ -3,7 +3,7 @@
 A simple, responsive static website designed to showcase a curated movie collection, complete with direct streaming or download anchors. This project highlights semantic HTML structure and responsive CSS styling.
 
 ## 🚀 Live Demo
-👉 [View Live Website](https://castro212010.github.io)
+👉 [View Live Website]([https://castro212010.github.io](https://castro212010.github.io/mcu-timeline/))
 
 ## ✨ Features
 - **Movie Spotlight:** Showcases a clean, prominent display of the movie title, poster, and overview.
